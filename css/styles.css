@@ -1,0 +1,36 @@
+.notecard {
+  background-image: url("../images/card.jpg");
+  height: 200px;
+  width: 300px;
+  background-size: cover;
+}
+
+.container {
+  border: 1px solid black;
+  height: 200px;
+  width: 300px;
+  margin: 20px;
+  float: left;
+  font-family: "comic sans ms";
+}
+
+body {
+  background-color: #F7D284;
+}
+
+h1 {
+  margin: 40px;
+}
+
+.definition {
+  display: none;
+}
+
+p {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+.term {
+  font-weight: bold;
+}
